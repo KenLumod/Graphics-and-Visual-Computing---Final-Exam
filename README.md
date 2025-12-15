@@ -26,7 +26,7 @@ The fused architecture demonstrates superior performance in both accuracy and er
 
 > **Key Finding:** The reduction in False Positives (from 707 to 591) indicates that the **Spatial Attention** mechanism successfully prevented the model from mistaking background foliage for flower parts.
 
-## 👁️ Visualization (Grad-CAM)
+## Visualization (Grad-CAM)
 We employed **Grad-CAM** to interpret the model's focus:
 * **Standard CNN:** Attention is often scattered, focusing on background leaves or grass.
 * **CNN + CBAM:** Attention is tightly clustered around the flower petals and reproductive structures.
