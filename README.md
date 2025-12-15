@@ -34,10 +34,10 @@ We employed **Grad-CAM** to interpret the model's focus:
 * **CNN + CBAM:** Attention is tightly clustered around the flower petals and reproductive structures.
 * *(Visual results can be viewed in the `fusion_CNN+CBAM.ipynb` notebook)
 
-![Grad-CAM Visual Results](./gradcam_results.png)
+![Grad-CAM Visual Results](./SampleResult.png)
 
-* **Green Title:** Correct Prediction ✅
-* **Red Title:** Incorrect Prediction ❌
+* **Green Title:** Correct Prediction
+* **Red Title:** Incorrect Prediction
 
 ## Requirements
 * Python 3.x
