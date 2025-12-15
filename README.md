@@ -44,7 +44,8 @@ We employed **Grad-CAM** to interpret the model's focus:
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [(https://github.com/KenLumod/Graphics-and-Visual-Computing---Final-Exam)](https://github.com/your-username/your-repo-name.git](https://github.com/KenLumod/Graphics-and-Visual-Computing---Final-Exam)
+    git clone [https://github.com/KenLumod/Graphics-and-Visual-Computing---Final-Exam.git](https://github.com/KenLumod/Graphics-and-Visual-Computing---Final-Exam.git)
+    cd Graphics-and-Visual-Computing---Final-Exam
     ```
 
 2.  **Install Dependencies:**
