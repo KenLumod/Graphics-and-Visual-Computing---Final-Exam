@@ -1,7 +1,7 @@
 # CNN + CBAM: Architecture Fusion for Fine-Grained Classification
 
 ## Overview
-This project evaluates the impact of integrating the **Convolutional Block Attention Module (CBAM)** into a standard Convolutional Neural Network (CNN) for fine-grained plant image classification. 
+This project evaluates the impact of integrating the **Convolutional Block Attention Module (CBAM)** into a **Standard Convolutional Neural Network (CNN)** for fine-grained plant image classification. 
 
 By adding **Channel Attention** ("What to look for") and **Spatial Attention** ("Where to look"), the model significantly outperforms a standard CNN baseline by filtering out background noise and focusing on discriminative flower features.
 
