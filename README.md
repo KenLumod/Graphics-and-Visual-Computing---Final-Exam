@@ -32,7 +32,7 @@ The fused architecture demonstrates superior performance in both accuracy and er
 We employed **Grad-CAM** to interpret the model's focus:
 * **Standard CNN:** Attention is often scattered, focusing on background leaves or grass.
 * **CNN + CBAM:** Attention is tightly clustered around the flower petals and reproductive structures.
-* *(Visual results can be viewed in the `fusion_CNN+CBAM.ipynb` notebook)
+* **(Visual results can be viewed in the `fusion_CNN+CBAM.ipynb` notebook)
 
 ![Grad-CAM Visual Results](./SampleResult.png)
 
