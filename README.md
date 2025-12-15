@@ -2,7 +2,7 @@
 
 ### **Created by: Kenneth Lumod** 
 ### **Section: CS4C**
-**Subject:** Graphics and Visual Computing Final Exam
+
 [![Read Mini Report](https://img.shields.io/badge/Read-Mini%20Report-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Mini%20Report%20-%20Graphics_and_Visual_Computing.pdf)
 
 ## Overview
